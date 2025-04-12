@@ -1,0 +1,51 @@
+html, body {
+    margin: 20px;
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: darkred;
+}
+
+#container {
+    width: 750px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+#funnysitetext {
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+#profile {
+    text-align: center;
+}
+
+#theperson {
+    width: 750px;
+    margin: auto;
+    padding: 30px;
+}
+
+#theperson a {
+    color: grey;
+}
+
+#theperson marquee {
+    color: grey;
+    font-size: smaller;
+}
