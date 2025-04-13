@@ -4,7 +4,15 @@ html, body {
     color: white;
     font-family: Verdana, sans-serif;
 }
+#navbar {
+    list-style-type: none;
+    padding: 0;
+}
 
+#navbar li {
+    display: inline;
+    padding: 5px;
+}
 a {
     color: red;
 }
