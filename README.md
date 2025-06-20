@@ -1,3 +1,3 @@
 my website things....
-uhhh ye'
-test
+uhhh ye
+<p><a href="https://prodevrblx.github.io/home.html">Redirect</a></p>
