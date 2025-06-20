@@ -1,3 +1,3 @@
 my website things....
 uhhh ye
-<p><a href="https://prodevrblx.github.io/home.html">Redirect</a></p>
+<meta http-equiv="refresh" content="0; URL=https://prodevrblx.github.io/home.html" />
